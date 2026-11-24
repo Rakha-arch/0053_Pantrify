@@ -2,10 +2,18 @@ package com.example.pantrify.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Palet gelap sesuai wireframe Pantrify
+val Ink = Color(0xFF1B1B1B)          // latar aplikasi
+val Panel = Color(0xFF242424)        // panel / kartu
+val PanelDeep = Color(0xFF1F1F1F)    // isian / permukaan lebih gelap
+val Line = Color(0xFF3A3A3A)         // garis tepi
+val TextMain = Color(0xFFF2F2F2)
+val TextMuted = Color(0xFFB0B0B0)
+val Accent = Color(0xFF3B82F6)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val Amber = Color(0xFFFBBF24)
+val AmberSoft = Color(0xFF33291A)
+val Danger = Color(0xFFF87171)
+val DangerSoft = Color(0xFF3A1D1D)
+val Success = Color(0xFF4ADE80)
+val SuccessSoft = Color(0xFF17301F)
